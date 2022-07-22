@@ -14,8 +14,10 @@
 
 <br>
 
-[![@MiladVarvaei](https://img.icons8.com/fluency/48/000000/linkedin.png "@MiladVarvaei")](https://www.linkedin.com/in/MiladVarvaei/) 
+[![@MiladVarvaei](https://img.icons8.com/fluency/48/000000/linkedin.png "@MiladVarvaei")](https://www.linkedin.com/in/MiladVarvaei/)
+/n
 [![@miladv33](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/MiladVarvaei)
+/n
 [![@miladv33@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@miladv33@gmail.com")](https://miladv33@gmail.com)
 
 <br>
