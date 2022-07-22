@@ -15,9 +15,7 @@
 <br>
 
 [![@MiladVarvaei](https://img.icons8.com/fluency/48/000000/linkedin.png "@MiladVarvaei")](https://www.linkedin.com/in/MiladVarvaei/)
-/n
 [![@miladv33](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/MiladVarvaei)
-/n
 [![@miladv33@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@miladv33@gmail.com")](https://miladv33@gmail.com)
 
 <br>
@@ -27,8 +25,9 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miladv33&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![miladv33 GitHub stats](https://github-readme-stats.vercel.app/api?username=miladv33&theme=algolia)](https://github.com/miladv33/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladv33&theme=algolia)](https://github.com/miladv33/github-readme-stats) 
-
+ [![miladv33 GitHub stats](https://github-readme-stats.vercel.app/api?username=miladv33&theme=algolia)](https://github.com/miladv33/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miladv33&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladv33&theme=algolia)](https://github.com/miladv33/github-readme-stats)
 <br>
 
 ## GitHub Thropies 🏆 :
