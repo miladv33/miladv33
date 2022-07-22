@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Milad Varvaei</h1>
 
-<!--
-**miladv33/miladv33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/miladv33?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/miladv33?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=miladv33.repoName) <img src="https://komarev.com/ghpvc/?username=miladv33" alt="miladv33" />
 
-Here are some ideas to get you started:
+## About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I am currently working as an **Android Developer** at [Alpha Cloud](https://wolfengine.github.io/)
+- 🎓 Studies for Software Engineering at [Shamsipour Technical and Vocational University](https://www.linkedin.com/school/shahid-shamsipour-college/)
+- 🏡'Lives in **Iran**
+
+<br>
+
+## Connect with me ☕ :
+
+<br>
+
+[![@MiladVarvaei](https://img.icons8.com/fluency/48/000000/linkedin.png "@MiladVarvaei")](https://www.linkedin.com/in/MiladVarvaei/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/MiladVarvaei) [![@miladv33@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@miladv33@gmail.com")](miladv33@gmail.com)
+
+<br>
+
+
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miladv33&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![miladv33 GitHub stats](https://github-readme-stats.vercel.app/api?username=miladv33&theme=algolia)](https://github.com/miladv33/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladv33&theme=algolia)](https://github.com/miladv33/github-readme-stats) [![miladv33 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
+<br>
+
+## GitHub Thropies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=miladv33)](https://github.com/miladv33/github-profile-trophy)
+
+<br>
+
+## Activity Graph 📊 :
+
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=miladv33&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+Credit: [miladv33](https://github.com/miladv33)
+
+Last edited on: 07/22/2022
