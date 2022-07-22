@@ -6,7 +6,7 @@
 
 - 🏢 I am currently working as an **Android Developer** at [Alpha Cloud](https://wolfengine.github.io/)
 - 🎓 Studies for Software Engineering at [Shamsipour Technical and Vocational University](https://www.linkedin.com/school/shahid-shamsipour-college/)
-- 🏡'Lives in **Iran**
+- 🏡 Living in **Iran**
 
 <br>
 
@@ -14,7 +14,9 @@
 
 <br>
 
-[![@MiladVarvaei](https://img.icons8.com/fluency/48/000000/linkedin.png "@MiladVarvaei")](https://www.linkedin.com/in/MiladVarvaei/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/MiladVarvaei) [![@miladv33@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@miladv33@gmail.com")](miladv33@gmail.com)
+[![@MiladVarvaei](https://img.icons8.com/fluency/48/000000/linkedin.png "@MiladVarvaei")](https://www.linkedin.com/in/MiladVarvaei/) 
+[![@miladv33](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/MiladVarvaei)
+[![@miladv33@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@miladv33@gmail.com")](https://miladv33@gmail.com)
 
 <br>
 
