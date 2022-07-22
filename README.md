@@ -2,6 +2,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/miladv33?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/miladv33?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=miladv33.repoName) <img src="https://komarev.com/ghpvc/?username=miladv33" alt="miladv33" />
 
+[![miladv33 GitHub stats](https://github-readme-stats.vercel.app/api?username=miladv33&theme=algolia)](https://github.com/miladv33/github-readme-stats)
+
 ## About Me :
 
 - 🏢 I am currently working as an **Android Developer** at [Alpha Cloud](https://wolfengine.github.io/)
@@ -25,9 +27,8 @@
 
 <br>
 
- [![miladv33 GitHub stats](https://github-readme-stats.vercel.app/api?username=miladv33&theme=algolia)](https://github.com/miladv33/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miladv33&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladv33&theme=algolia)](https://github.com/miladv33/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miladv33&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 
 ## GitHub Thropies 🏆 :
