@@ -19,6 +19,8 @@
 [![@MiladVarvaei](https://img.icons8.com/fluency/48/000000/linkedin.png "@MiladVarvaei")](https://www.linkedin.com/in/MiladVarvaei/)
 [![@miladv33](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/MiladVarvaei)
 [![@miladv33@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@miladv33@gmail.com")](https://miladv33@gmail.com)
+[![medium](https://user-images.githubusercontent.com/32409526/202837612-81616a55-9381-4515-9a9a-fe77c0ff988f.png)](https://medium.com/@miladv33)
+
 
 <br>
 
