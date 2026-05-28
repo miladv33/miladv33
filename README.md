@@ -8,7 +8,6 @@
 
 - 🏢 I am currently working as an **Sotware Engineer** at [Alpha Cloud](https://wolfengine.github.io/)
 - 🎓 Studies for Software Engineering at [Shamsipour Technical and Vocational University](https://www.linkedin.com/school/shahid-shamsipour-college/)
-- 🏡 Living in **Iran**
 
 <br>
 
