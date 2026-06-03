@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Milad Varvaei</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Milad </h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/miladv33?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/miladv33?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=miladv33.repoName) <img src="https://komarev.com/ghpvc/?username=miladv33" alt="miladv33" />
 
